@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Omar07Ibarhim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m _@Omar07Ibarhim (italic)_ 
+- I am web _developer (bold)_   
+- My portfolio 
+- 
+- >[www.unsiyyat.com](https://unsiyyat.com)
+- >[www.getiraptek.az](https://getiraptek.az)
+- >[www.prg.az](https://prg.az)
+- >[www.hrts.az](https://hrts.az)
 
 
 
