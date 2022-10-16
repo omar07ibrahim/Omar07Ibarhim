@@ -1,10 +1,15 @@
 - 👋 Hi, I’m _@Omar07Ibarhim (italic)_ 
-- I am web _developer (bold)_   
+
+- I am  __Web DEVELOPER (bold)__
+
 - My portfolio 
-- 
+
 - >[www.unsiyyat.com](https://unsiyyat.com)
+
 - >[www.getiraptek.az](https://getiraptek.az)
+
 - >[www.prg.az](https://prg.az)
+
 - >[www.hrts.az](https://hrts.az)
 
 
