@@ -6,7 +6,8 @@
 
 
 
-[![Braydon's GitHub Banner](./Frame 4.png)]
+![Frame 4](https://user-images.githubusercontent.com/31526072/196043597-09fd890e-1737-4e02-9d08-e2ea25000b09.png)
+
 
 
 
